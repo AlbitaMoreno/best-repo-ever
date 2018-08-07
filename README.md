@@ -3,6 +3,6 @@
 
 TrailsHead's exercise.
 
-2nd commit
+Conflicting commits
 
 Alba,
